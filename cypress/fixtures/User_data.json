@@ -2,8 +2,8 @@
     "creates": {
         "email_UNIQUE": "thqa13119+User1@gmail.com",
         "userName_UNIQUE": "User_1",
-        "password": "Ampliflow@test-2",
-        "confirmPassword": "Ampliflow@test-2"
+        "password": "test@test-2",
+        "confirmPassword": "test@test-2"
     },
     "details": {
         "email_UNIQUE": "thqa13119+User1@gmail.com",
